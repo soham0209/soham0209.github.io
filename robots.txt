@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://www.cs.purdue.edu/homes/mukher26/sitemap.xml
+Sitemap: https://soham0209.github.io/sitemap.xml
