@@ -5,7 +5,7 @@
     <link>https://soham0209.github.io/tag/tda/</link>
       <atom:link href="https://soham0209.github.io/tag/tda/index.xml" rel="self" type="application/rss+xml" />
     <description>TDA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:44:15 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>TDA</title>
@@ -34,6 +34,22 @@
       <description>&lt;p&gt;Cytometry experiments yield high-dimensional point cloud data that is difficult to interpret manually. Boolean gating techniques coupled with comparisons of relative abundances of cellular subsets is the current standard for cytometry data analysis. However, this approach is unable to capture more subtle topological features of data, especially if those features are masked by data transforms. We propose that persistent homology, a mathematical technique for summarizing the topology of a dataset, will be capable of uncovering systematic topological differences between differing sources of data. Publicly available cytometry data describing non-naïve CD8+ T-cells in COVID-19 patients and healthy controls motivates our method, and we show that systematic structural differences exist between protein expressions in COVID-19 patients and healthy controls.&lt;/p&gt;
 &lt;p&gt;Our method identifies proteins of interest given their importance to an XGBoost classifier to pass to a kernel-density estimator (KDE). We then compute persistence diagrams on points sampled from the KDEs. The resulting persistence diagrams identify regions in cytometry datasets of differing density with the $H_0$ barcodes, and identify geometric structures composed of loops, which are representative of length scales in the data, with the $H_1$ barcodes. We calculated Wasserstein distances between these persistence diagrams for random pairs of healthy controls and COVID-19 patients and found that systematic structural differences exist between COVID-19 patients and healthy controls in the expression data for T-bet, Eomes, and Ki-67. Further analysis shows that expression of T-bet and Eomes are significantly downregulated in COVID-19 patient non-naïve CD8+ T-cells compared to healthy controls. This counter-intuitive finding might indicate that Effector CD8+ T-cells are less prevalent in COVID-19 patients than healthy controls. This method is applicable to any cytometry dataset to discover novel topological insights that would be difficult to ascertain with a standard gating strategy or with large batch effects in the data.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Topological Deep Learning: Going Beyond Graph Data</title>
+      <link>https://soham0209.github.io/publication/tdl/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://soham0209.github.io/publication/tdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning</title>
+      <link>https://soham0209.github.io/publication/gril/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://soham0209.github.io/publication/gril/</guid>
+      <description></description>
     </item>
     
     <item>
