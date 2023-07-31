@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>soham0209.github.io/publication/</link>
-      <atom:link href="soham0209.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://soham0209.github.io/publication/</link>
+      <atom:link href="https://soham0209.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>soham0209.github.io/publication/</link>
+      <link>https://soham0209.github.io/publication/</link>
     </image>
     
     <item>
       <title>Topological Deep Learning: Going Beyond Graph Data</title>
-      <link>soham0209.github.io/publication/tdl/</link>
+      <link>https://soham0209.github.io/publication/tdl/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/tdl/</guid>
+      <guid>https://soham0209.github.io/publication/tdl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning</title>
-      <link>soham0209.github.io/publication/gril/</link>
+      <link>https://soham0209.github.io/publication/gril/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/gril/</guid>
+      <guid>https://soham0209.github.io/publication/gril/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEFL: Extended Filtration Learning for Graph Classification</title>
-      <link>soham0209.github.io/publication/gefl/</link>
+      <link>https://soham0209.github.io/publication/gefl/</link>
       <pubDate>Tue, 07 Feb 2023 00:04:10 -0500</pubDate>
-      <guid>soham0209.github.io/publication/gefl/</guid>
+      <guid>https://soham0209.github.io/publication/gefl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Denoising with discrete Morse theory</title>
-      <link>soham0209.github.io/publication/dimorse/</link>
+      <link>https://soham0209.github.io/publication/dimorse/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/dimorse/</guid>
+      <guid>https://soham0209.github.io/publication/dimorse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining clinically relevant features in cytometry data using persistent homology</title>
-      <link>soham0209.github.io/publication/covid_19/</link>
+      <link>https://soham0209.github.io/publication/covid_19/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/covid_19/</guid>
+      <guid>https://soham0209.github.io/publication/covid_19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression data classification using topology and machine learning models</title>
-      <link>soham0209.github.io/publication/example/</link>
+      <link>https://soham0209.github.io/publication/example/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/example/</guid>
+      <guid>https://soham0209.github.io/publication/example/</guid>
       <description></description>
     </item>
     
