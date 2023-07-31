@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Academic</title>
-    <link>https://soham0209.github.io/tag/deep-learning/</link>
-      <atom:link href="https://soham0209.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>soham0209.github.io/tag/deep-learning/</link>
+      <atom:link href="soham0209.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://soham0209.github.io/tag/deep-learning/</link>
+      <link>soham0209.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Topological Deep Learning: Going Beyond Graph Data</title>
-      <link>https://soham0209.github.io/publication/tdl/</link>
+      <link>soham0209.github.io/publication/tdl/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://soham0209.github.io/publication/tdl/</guid>
+      <guid>soham0209.github.io/publication/tdl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning</title>
-      <link>https://soham0209.github.io/publication/gril/</link>
+      <link>soham0209.github.io/publication/gril/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://soham0209.github.io/publication/gril/</guid>
+      <guid>soham0209.github.io/publication/gril/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Jacobi-set based loss function for segmentation task</title>
-      <link>https://soham0209.github.io/project/jacobiset/</link>
+      <link>soham0209.github.io/project/jacobiset/</link>
       <pubDate>Tue, 07 Feb 2023 00:44:15 -0500</pubDate>
-      <guid>https://soham0209.github.io/project/jacobiset/</guid>
+      <guid>soham0209.github.io/project/jacobiset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph generation with Geometrical and Topological Constraints</title>
-      <link>https://soham0209.github.io/project/graphgen/</link>
+      <link>soham0209.github.io/project/graphgen/</link>
       <pubDate>Tue, 07 Feb 2023 00:28:03 -0500</pubDate>
-      <guid>https://soham0209.github.io/project/graphgen/</guid>
+      <guid>soham0209.github.io/project/graphgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEFL: Extended Filtration Learning for Graph Classification</title>
-      <link>https://soham0209.github.io/project/gefl/</link>
+      <link>soham0209.github.io/project/gefl/</link>
       <pubDate>Tue, 07 Feb 2023 00:27:20 -0500</pubDate>
-      <guid>https://soham0209.github.io/project/gefl/</guid>
+      <guid>soham0209.github.io/project/gefl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEFL: Extended Filtration Learning for Graph Classification</title>
-      <link>https://soham0209.github.io/publication/gefl/</link>
+      <link>soham0209.github.io/publication/gefl/</link>
       <pubDate>Tue, 07 Feb 2023 00:04:10 -0500</pubDate>
-      <guid>https://soham0209.github.io/publication/gefl/</guid>
+      <guid>soham0209.github.io/publication/gefl/</guid>
       <description></description>
     </item>
     
