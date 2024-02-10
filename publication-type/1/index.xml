@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Academic</title>
-    <link>https://soham0209.github.io/publication-type/1/</link>
-      <atom:link href="https://soham0209.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>soham0209.github.io/publication-type/1/</link>
+      <atom:link href="soham0209.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:04:10 -0500</lastBuildDate>
     <image>
-      <url>https://soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://soham0209.github.io/publication-type/1/</link>
+      <link>soham0209.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>GEFL: Extended Filtration Learning for Graph Classification</title>
-      <link>https://soham0209.github.io/publication/gefl/</link>
+      <link>soham0209.github.io/publication/gefl/</link>
       <pubDate>Tue, 07 Feb 2023 00:04:10 -0500</pubDate>
-      <guid>https://soham0209.github.io/publication/gefl/</guid>
+      <guid>soham0209.github.io/publication/gefl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Denoising with discrete Morse theory</title>
-      <link>https://soham0209.github.io/publication/dimorse/</link>
+      <link>soham0209.github.io/publication/dimorse/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://soham0209.github.io/publication/dimorse/</guid>
+      <guid>soham0209.github.io/publication/dimorse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression data classification using topology and machine learning models</title>
-      <link>https://soham0209.github.io/publication/example/</link>
+      <link>soham0209.github.io/publication/example/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://soham0209.github.io/publication/example/</guid>
+      <guid>soham0209.github.io/publication/example/</guid>
       <description></description>
     </item>
     
