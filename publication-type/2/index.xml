@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Academic</title>
-    <link>soham0209.github.io/publication-type/2/</link>
-      <atom:link href="soham0209.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>sohm0209.github.io/publication-type/2/</link>
+      <atom:link href="sohm0209.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/sohm0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>soham0209.github.io/publication-type/2/</link>
+      <link>sohm0209.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Determining clinically relevant features in cytometry data using persistent homology</title>
-      <link>soham0209.github.io/publication/covid_19/</link>
+      <link>sohm0209.github.io/publication/covid_19/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>soham0209.github.io/publication/covid_19/</guid>
+      <guid>sohm0209.github.io/publication/covid_19/</guid>
       <description></description>
     </item>
     

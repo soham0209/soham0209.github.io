@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Academic</title>
-    <link>soham0209.github.io/tags/</link>
-      <atom:link href="soham0209.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>sohm0209.github.io/tags/</link>
+      <atom:link href="sohm0209.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:44:15 -0500</lastBuildDate>
     <image>
-      <url>/soham0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/sohm0209.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>soham0209.github.io/tags/</link>
+      <link>sohm0209.github.io/tags/</link>
     </image>
     
   </channel>
