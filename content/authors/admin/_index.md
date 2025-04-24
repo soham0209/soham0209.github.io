@@ -83,8 +83,8 @@ work:
     company_name: IBM T.J. Watson Research Centre
     company_url: ''
     company_logo: ''
-    date_start: 2022-05
-    date_end: 2022-08
+    date_start: 2022-05-14
+    date_end: 2022-08-16
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
