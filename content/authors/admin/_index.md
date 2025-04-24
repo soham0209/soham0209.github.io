@@ -34,7 +34,7 @@ profiles:
     url: https://github.com/soham0209
   - icon: brands/linkedin
     url: www.linkedin.com/in/soham-mukherjee-168363128
-  - icon: ai/google-scholar
+  - icon: google-scholar-logo
     url: https://scholar.google.com/citations?user=mQgy3wkAAAAJ&hl=en
 
 education:
