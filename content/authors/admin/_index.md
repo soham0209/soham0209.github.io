@@ -34,8 +34,8 @@ profiles:
     url: https://github.com/soham0209
   - icon: brands/linkedin
     url: www.linkedin.com/in/soham-mukherjee-168363128
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: ai/google-scholar
+    url: https://scholar.google.com/citations?user=mQgy3wkAAAAJ&hl=en
 
 education:
   - area: PhD Computer Science
@@ -133,10 +133,6 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  
 
 # Awards.
 #   Add/remove as many awards below as you like.
