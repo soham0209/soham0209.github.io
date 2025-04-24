@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Soham Mukherjee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Soham
+last_name: Mukherjee
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Lead Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Cadence Design Systems
     url: https://www.example.com/
 
 # Social network links
