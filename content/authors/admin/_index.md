@@ -28,31 +28,29 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:soham.juetce@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/soham0209
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/soham-mukherjee-168363128
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: Purdue University
+    date_start: 2020
+    date_end: 2024
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Computational Topology and Machine Learning_. Supervised by [Prof Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf'
+  - area: MS Computer Science and Engineering
+    institution: The Ohio State University
+    date_start: 2017
+    date_end: 2020
     summary: |
       GPA: 3.8/4.0
 
@@ -60,35 +58,45 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BE Electronics & Teleccommunication Engineering
+    institution: Jadavpur University
+    date_start: 2013
+    date_end: 2017
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Lead Software Engineer
+    company_name: Cadence Design Systems
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-12
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Intern
+    company_name: IBM T.J. Watson Research Centre
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-05-15
+    date_end: 2022-16-08
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
+  - position: Engineering Intern
+    company_name: Physna Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-14
+    date_end: 2021-08-08
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -104,10 +112,6 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
       - name: PyTorch
         description: ''
         percent: 40
@@ -132,10 +136,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +170,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Hi, after graduating with a PhD in CS from Purdue University, I joined Cadence Design Systems as a Lead Software Engineer. My thesis titled "Unveiling patterns in data: harnessing computational topology in machine learning" is avalilable [here](https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf) I moved to Purdue (Fall 2020) from The Ohio State University along with my advisor [Prof. Tamal Krishna Dey](https://www.cs.purdue.edu/homes/tamaldey/). I am in CTDA group of Purdue CS dept. I completed my Bachelors in Electronics and Tele-communication Engineering from [Jadavpur University](http://www.jaduniv.edu.in), Kolkata. My undergraduate research was in Circuits and Systems in ADESL lab under [Prof. Mrinal Kanti Naskar](https://scholar.google.com/citations?user=t5kOc_EAAAAJ&hl=en). I am from the city of joy, Kolkata, situated in easteern part of India. Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.
