@@ -129,7 +129,6 @@ skills:
         # icon: camera
       - name: HuggingFace
         description: ''
-        icon: custom/hf-logo
         percent: 90
 
 
