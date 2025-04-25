@@ -10,8 +10,8 @@ first_name: Soham
 last_name: Mukherjee
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,7 +34,7 @@ profiles:
     url: https://github.com/soham0209
   - icon: brands/linkedin
     url: www.linkedin.com/in/soham-mukherjee-168363128
-  - icon: google-scholar-logo
+  - icon: custom/google-scholar-logo
     url: https://scholar.google.com/citations?user=mQgy3wkAAAAJ&hl=en
 
 education:
@@ -43,7 +43,12 @@ education:
     date_start: 2020
     date_end: 2024
     summary: |
-      Thesis on _Computational Topology and Machine Learning_. Supervised by [Prof Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/). 
+      Thesis on _Computational Topology and Machine Learning_. Supervised by [Prof Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/).
+      Courses included:
+      - Deep Learning
+      - Machine Learning
+      - Machine Learning on Graphs
+
     button:
       text: 'Read Thesis'
       url: 'https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf'
@@ -54,19 +59,12 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BE Electronics & Teleccommunication Engineering
     institution: Jadavpur University
     date_start: 2013
     date_end: 2017
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     GPA: 9.5/10.0
 work:
   - position: Lead Software Engineer
     company_name: Cadence Design Systems
@@ -124,10 +122,6 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
         percent: 80
