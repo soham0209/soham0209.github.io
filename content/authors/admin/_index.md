@@ -40,8 +40,8 @@ profiles:
 education:
   - area: PhD Computer Science
     institution: Purdue University
-    date_start: 2020
-    date_end: 2024
+    date_start: 2020-08-15
+    date_end: 2025-02-12
     summary: |
       Thesis on _Computational Topology and Machine Learning_. Supervised by [Prof Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/).
       Courses included:
@@ -54,22 +54,22 @@ education:
       url: 'https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf'
   - area: MS Computer Science and Engineering
     institution: The Ohio State University
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-08-21
+    date_end: 2020-07-25
     summary: |
       GPA: 3.8/4.0
 
   - area: BE Electronics & Teleccommunication Engineering
     institution: Jadavpur University
-    date_start: 2013
-    date_end: 2017
+    date_start: 2013-08-15
+    date_end: 2017-07-31
     summary: |
      GPA: 9.5/10.0
 work:
   - position: Lead Software Engineer
     company_name: Cadence Design Systems
     company_url: 'https://www.cadence.com/en_US/home.html'
-    company_logo: 'custom/cadence-logo'
+    company_logo: custom/cadence-logo
     date_start: 2024-02-12
     date_end: ''
     summary: |2-
@@ -130,6 +130,7 @@ skills:
       - name: HuggingFace
         description: ''
         percent: 90
+        icon: custom/hf-logo
 
 
 # Awards.
