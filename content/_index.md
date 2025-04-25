@@ -44,7 +44,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: card
