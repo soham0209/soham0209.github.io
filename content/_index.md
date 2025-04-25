@@ -41,6 +41,17 @@ sections:
     content:
       title: Publications
       username: admin
+
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   # - block: languages
   #   content:
   #     title: Languages
