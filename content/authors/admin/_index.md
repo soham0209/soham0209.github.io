@@ -123,15 +123,15 @@ skills:
       - name: Graph Neural Network
         description: ''
         percent: 95
-        icon: custom/ml
+        
       - name: Gen-AI
         description: ''
         percent: 90
-        icon: custom/ml
+        
       - name: HuggingFace
         description: ''
         percent: 90
-        icon: custom/ml
+        
 
 
 # Awards.
