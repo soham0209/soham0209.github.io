@@ -69,7 +69,7 @@ work:
   - position: Lead Software Engineer
     company_name: Cadence Design Systems
     company_url: 'https://www.cadence.com/en_US/home.html'
-    company_logo: custom/Cadence-logo
+    company_logo: custom/Cadence-Logo
     date_start: 2024-02-12
     date_end: ''
     summary: |2-
@@ -163,5 +163,8 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+Hi! I’m Soham, a Lead Software Engineer at Cadence Design Systems. I completed my PhD in Computer Science at Purdue University, where I worked in the CTDA group under the guidance of [Prof. Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/). My doctoral research focused on integrating concepts from computational topology into machine learning, culminating in my dissertation titled *“Unveiling Patterns in Data: Harnessing Computational Topology in Machine Learning.”* (You can find it [here](https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf) — feel free to take a look!)
 
-Hi, after graduating with a PhD in CS from Purdue University, I joined Cadence Design Systems as a Lead Software Engineer. My thesis titled "Unveiling patterns in data: harnessing computational topology in machine learning" is avalilable [here](https://hammer.purdue.edu/articles/thesis/Unveiling_patterns_in_data_harnessing_computational_topology_in_machine_learning/25114625/1/files/44320463.pdf) I moved to Purdue (Fall 2020) from The Ohio State University along with my advisor [Prof. Tamal Krishna Dey](https://www.cs.purdue.edu/homes/tamaldey/). I am in CTDA group of Purdue CS dept. I completed my Bachelors in Electronics and Tele-communication Engineering from [Jadavpur University](http://www.jaduniv.edu.in), Kolkata. My undergraduate research was in Circuits and Systems in ADESL lab under [Prof. Mrinal Kanti Naskar](https://scholar.google.com/citations?user=t5kOc_EAAAAJ&hl=en). I am from the city of joy, Kolkata, situated in easteern part of India. Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.
+I started my PhD journey at The Ohio State University and later moved to Purdue in Fall 2020 with my advisor. Prior to that, I earned my Bachelor's degree in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata, where I conducted undergraduate research in the Circuits and Systems domain in the ADESL lab with [Prof. Mrinal Kanti Naskar](https://scholar.google.com/citations?user=t5kOc_EAAAAJ&hl=en).
+
+I’m originally from Kolkata, the “City of Joy” in eastern India—a place that never fails to inspire me. Outside of research and engineering, I enjoy exploring the world through my camera lens. Photography is my creative escape from the equations and algorithms I wrestle with during the day.
