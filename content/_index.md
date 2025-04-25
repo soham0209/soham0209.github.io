@@ -47,7 +47,7 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: card
+      view: citation
   # - block: languages
   #   content:
   #     title: Languages
