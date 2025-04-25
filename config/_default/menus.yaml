@@ -13,3 +13,6 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: Publications
+    url: publications/
+    weight: 30
