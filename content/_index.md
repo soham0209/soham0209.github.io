@@ -37,12 +37,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: markdown
-    id: section-1
+  - block: publications
     content:
       title: Publications
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      username: admin
   # - block: languages
   #   content:
   #     title: Languages
