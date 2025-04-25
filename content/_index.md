@@ -37,10 +37,6 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  # - block: publications
-  #   content:
-  #     title: Publications
-  #     username: admin
 
   - block: collection
     content:
@@ -51,9 +47,10 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: card
   # - block: languages
   #   content:
   #     title: Languages
   #     username: admin
+  
 ---
