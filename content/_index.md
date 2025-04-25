@@ -37,10 +37,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: publications
-    content:
-      title: Publications
-      username: admin
+  # - block: publications
+  #   content:
+  #     title: Publications
+  #     username: admin
 
   - block: collection
     content:
