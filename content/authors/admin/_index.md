@@ -68,26 +68,24 @@ education:
 work:
   - position: Lead Software Engineer
     company_name: Cadence Design Systems
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.cadence.com/en_US/home.html'
+    company_logo: 'https://commons.wikimedia.org/wiki/File:Cadence-Logo.svg'
     date_start: 2024-02-12
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Integrated GNN-based models into EDA pipeline.
+      - Proposed, implemented, and tested a Fourier Neural Operator model for circuit simulation.
+      - Prototyped Multimodal framework based models for predicting post-layout circuit behavior.
   - position: Research Intern
     company_name: IBM T.J. Watson Research Centre
-    company_url: ''
+    company_url: 'https://research.ibm.com/labs/yorktown-heights'
     company_logo: ''
     date_start: 2022-05-14
     date_end: 2022-08-16
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Graph generation with geometrical and topological constraints. **(Patent filed)**
   
   - position: Engineering Intern
     company_name: Physna Inc.
@@ -97,35 +95,41 @@ work:
     date_end: 2021-08-08
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Deployed CNNs to predict 3D computer-aided design (CAD) models from 2D images.
+      - Automated segmentation and registration of point-cloud data obtained from scanning machine parts enabling efficient and accurate inspection.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 95
         icon: devicon/pytorch
-  - name: Hobbies
+      - name: TensorFlow
+        desription: ''
+        percent: 90 
+  - name: AI Topis
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Graph Neural Network
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Photography
+        percent: 90
+        # icon: person-simple-walk
+      - name: GenAI
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        # icon: camera
+      - name: HuggingFace
+        description: ''
+        icon: devicon/huggingface
+        percent: 90
 
 
 # Awards.
