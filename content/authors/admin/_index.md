@@ -115,6 +115,7 @@ skills:
         desription: ''
         percent: 90
         icon: devicon/tensorflow
+      
   - name: AI Topis
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -122,15 +123,15 @@ skills:
       - name: Graph Neural Network
         description: ''
         percent: 95
-        # icon: person-simple-walk
+        icon: custom/ml
       - name: Gen-AI
         description: ''
         percent: 90
-        # icon: camera
+        icon: custom/ml
       - name: HuggingFace
         description: ''
         percent: 90
-        icon: custom/hf-logo
+        icon: custom/ml
 
 
 # Awards.
