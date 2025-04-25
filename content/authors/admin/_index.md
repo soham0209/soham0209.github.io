@@ -69,7 +69,7 @@ work:
   - position: Lead Software Engineer
     company_name: Cadence Design Systems
     company_url: 'https://www.cadence.com/en_US/home.html'
-    company_logo: 'https://commons.wikimedia.org/wiki/File:Cadence-Logo.svg'
+    company_logo: custom/Cadence-logo
     date_start: 2024-02-12
     date_end: ''
     summary: |2-
