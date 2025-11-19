@@ -74,9 +74,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Integrated GNN-based models into EDA pipeline.
-      - Proposed, implemented, and tested a Fourier Neural Operator model for circuit simulation.
-      - Prototyped Multimodal framework based models for predicting post-layout circuit behavior.
+      - Designed and deployed a sequence-to-sequence Transformer pipeline that automatically parsed raw Spectre and regression logs into structured summaries. The system replaced brittle regex scripts with learned representations, hitting over 90% accuracy and saving hours of manual debug per project cycle.
+      - Fine-tuned a domain-adapted LLM to generate synthetic analog circuit netlists and design variants conditioned on performance targets. This synthetic data pipeline boosted model diversity and improved generalization on sparse design spaces.
+      - Set up scalable ML Ops pipelines to train and serve GNNs on hundreds of large analog circuit graphs (up to 300K nodes each) using distributed GPUs. Built reusable experiment tracking, dataset versioning, and containerized deployments for fast iteration across architectures.
+      - Prototyped a multimodal framework that fuses graph embeddings, log embeddings, and state-space models into a unified predictor for circuit behavior. This approach made debugging far more interpretable—linking textual failure patterns to graph-structural anomalies in real time.
   - position: Research Intern
     company_name: IBM T.J. Watson Research Centre
     company_url: 'https://research.ibm.com/labs/yorktown-heights'
@@ -115,8 +116,12 @@ skills:
         desription: ''
         percent: 90
         icon: devicon/tensorflow
+      - name: HuggingFace
+        desription: ''
+        percent: 90
+        icon: ccustom/hf-logo
       
-  - name: AI Topis
+  - name: AI Topics
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -128,7 +133,10 @@ skills:
         description: ''
         percent: 90
         
-      - name: HuggingFace
+      - name: LLMs
+        description: ''
+        percent: 90
+      - name: Agentic AI
         description: ''
         percent: 90
         
