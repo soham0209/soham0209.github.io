@@ -1,5 +1,5 @@
 ---
-title: 'D-gril: End-to-end topological learning with 2-parameter persistence'
+title: 'D-GRIL: End-to-end topological learning with 2-parameter persistence'
 authors:
 - Soham Mukherjee
 - Shreyas N Samaga

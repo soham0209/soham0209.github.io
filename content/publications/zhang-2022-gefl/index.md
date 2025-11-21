@@ -1,5 +1,5 @@
 ---
-title: 'Gefl: Extended filtration learning for graph classification'
+title: 'GEFL: Extended filtration learning for graph classification'
 authors:
 - Simon Zhang
 - Soham Mukherjee
