@@ -119,7 +119,7 @@ skills:
       - name: HuggingFace
         desription: ''
         percent: 90
-        icon: 'custom/huggingface'
+        icon: 'custom/huggingface-color'
       
   - name: AI Topics
     color: '#eeac02'
