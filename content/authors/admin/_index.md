@@ -178,3 +178,12 @@ Hi! I’m Soham, a Lead Software Engineer at Cadence Design Systems. I completed
 I started my PhD journey at The Ohio State University and later moved to Purdue in Fall 2020 with my advisor. Prior to that, I earned my Bachelor's degree in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata, where I conducted undergraduate research in the Circuits and Systems domain in the ADESL lab with [Prof. Mrinal Kanti Naskar](https://scholar.google.com/citations?user=t5kOc_EAAAAJ&hl=en).
 
 I’m originally from Kolkata, the “City of Joy” in eastern India—a place that never fails to inspire me. Outside of research and engineering, I enjoy exploring the world through my camera lens. Photography is my creative escape from the equations and algorithms I wrestle with during the day.
+ 
+## Projects
+
+- Built an end-to-end pipeline to convert raw unstructured data into attributed graphs and benchmarked GNN architectures (GCN, GIN, EdgeConv) for a regression task on sparse, high-dimensional targets.
+- Designed a multimodal predictor combining graph embeddings, log embeddings, and state-space models to capture both structural and sequential signals from heterogeneous data sources.
+- Developed a pre-training strategy using Triplet Loss to learn similarity structure from a proxy label before fine-tuning on sparse downstream targets, improving generalization on limited labeled data.
+- Built a scalable data augmentation framework that programmatically generates and validates new graph instances, enabling robust dataset enrichment for ML benchmarking and robustness testing.
+- Wrote an NLP-based feature extraction framework to parse unstructured logs into structured features for downstream ML modeling.
+- Scaled GNN training to graphs with up to 300K nodes using distributed GPUs; built experiment tracking, dataset versioning, and containerized workflows for fast iteration across architectures.
