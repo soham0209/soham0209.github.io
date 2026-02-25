@@ -74,10 +74,12 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Designed and deployed a sequence-to-sequence Transformer pipeline that automatically parsed raw Spectre and regression logs into structured summaries. The system replaced brittle regex scripts with learned representations, hitting over 90% accuracy and saving hours of manual debug per project cycle.
-      - Fine-tuned a domain-adapted LLM to generate synthetic analog circuit netlists and design variants conditioned on performance targets. This synthetic data pipeline boosted model diversity and improved generalization on sparse design spaces.
-      - Set up scalable ML Ops pipelines to train and serve GNNs on hundreds of large analog circuit graphs (up to 300K nodes each) using distributed GPUs. Built reusable experiment tracking, dataset versioning, and containerized deployments for fast iteration across architectures.
-      - Prototyped a multimodal framework that fuses graph embeddings, log embeddings, and state-space models into a unified predictor for circuit behavior. This approach made debugging far more interpretable—linking textual failure patterns to graph-structural anomalies in real time.
+      - Built an end-to-end pipeline to convert raw unstructured data into attributed graphs and benchmarked GNN architectures — GCN, GIN, and EdgeConv — for a regression task on sparse, high-dimensional targets.
+      - Designed a multimodal predictor combining graph embeddings, log embeddings, and state-space models to capture both structural and sequential signals from heterogeneous data sources.
+      - Developed a pre-training strategy using Triplet Loss to learn similarity structure from a proxy label before fine-tuning on sparse downstream targets, improving generalization on limited labeled data.
+      - Built a scalable data augmentation framework that programmatically generates and validates new graph instances, enabling robust dataset enrichment for ML benchmarking and robustness testing.
+      - Wrote an NLP-based feature extraction framework to parse unstructured logs into structured features for downstream ML modeling.
+      - Scaled GNN training to graphs with up to 300K nodes using distributed GPUs; built experiment tracking, dataset versioning, and containerized workflows for fast iteration across architectures.
   - position: Research Intern
     company_name: IBM T.J. Watson Research Centre
     company_url: 'https://research.ibm.com/labs/yorktown-heights'
@@ -178,12 +180,5 @@ Hi! I’m Soham, a Lead Software Engineer at Cadence Design Systems. I completed
 I started my PhD journey at The Ohio State University and later moved to Purdue in Fall 2020 with my advisor. Prior to that, I earned my Bachelor's degree in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata, where I conducted undergraduate research in the Circuits and Systems domain in the ADESL lab with [Prof. Mrinal Kanti Naskar](https://scholar.google.com/citations?user=t5kOc_EAAAAJ&hl=en).
 
 I’m originally from Kolkata, the “City of Joy” in eastern India—a place that never fails to inspire me. Outside of research and engineering, I enjoy exploring the world through my camera lens. Photography is my creative escape from the equations and algorithms I wrestle with during the day.
- 
-## Projects
 
-- Built an end-to-end pipeline to convert raw unstructured data into attributed graphs and benchmarked GNN architectures (GCN, GIN, EdgeConv) for a regression task on sparse, high-dimensional targets.
-- Designed a multimodal predictor combining graph embeddings, log embeddings, and state-space models to capture both structural and sequential signals from heterogeneous data sources.
-- Developed a pre-training strategy using Triplet Loss to learn similarity structure from a proxy label before fine-tuning on sparse downstream targets, improving generalization on limited labeled data.
-- Built a scalable data augmentation framework that programmatically generates and validates new graph instances, enabling robust dataset enrichment for ML benchmarking and robustness testing.
-- Wrote an NLP-based feature extraction framework to parse unstructured logs into structured features for downstream ML modeling.
-- Scaled GNN training to graphs with up to 300K nodes using distributed GPUs; built experiment tracking, dataset versioning, and containerized workflows for fast iteration across architectures.
+ 
