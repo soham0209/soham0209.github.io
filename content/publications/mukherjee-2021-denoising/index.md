@@ -7,4 +7,5 @@ publishDate: '2025-04-25T03:35:23.256918Z'
 publication_types:
 - article-journal
 publication: '*The Visual Computer*'
+doi: '10.1007/s00371-021-02255-7'
 ---
