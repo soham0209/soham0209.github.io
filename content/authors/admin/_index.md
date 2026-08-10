@@ -41,7 +41,7 @@ education:
   - area: PhD Computer Science
     institution: Purdue University
     date_start: 2020-08-15
-    date_end: 2025-02-12
+    date_end: 2024-02-12
     summary: |
       Thesis on _Computational Topology and Machine Learning_. Supervised by [Prof Tamal K. Dey](https://www.cs.purdue.edu/homes/tamaldey/).
       Courses included:
