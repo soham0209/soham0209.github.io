@@ -1,1 +1,13 @@
 resources/
+cv/.build/
+
+# Local Hugo build output
+public/
+go.sum
+hugo_stats.json
+.hugo_build.lock
+
+# Local-only files
+.DS_Store
+.claude/
+my_papers/
